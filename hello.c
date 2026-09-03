@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-void greet() {
-    printf("Hello from collaborative coding!\n");
-}
-
 int main() {
-    greet();
+    printf("Hello, World!\n");
     return 0;
 }
